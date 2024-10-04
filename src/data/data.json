@@ -1,0 +1,94 @@
+{
+  "Header": {
+    "title": "InterviewReady",
+    "paragraph": "An advanced web-based application designed for interview preparation."
+  },
+  "About": {
+  "paragraph": "InterviewReady was created to bridge the gap in interview preparedness that so many job seekers face today. With a staggering 70% of candidates reporting feeling unprepared for interviews, our platform is designed to provide tailored, real-time training. We aim to help candidates understand the interview process, improve their performance, and ultimately secure the job opportunities they deserve. By offering personalized feedback and AI-driven coaching, we equip users with the skills they need to succeed in an increasingly competitive job market.",
+  "Why": [
+    "Comprehensive interview training",
+    "Tailored feedback for improvement",
+    "AI-powered coaching for real-time practice",
+    "Simulated interviews to boost confidence"
+  ],
+  "Why2": [
+    "Real-time feedback for immediate learning",
+    "In-depth analysis of responses",
+    "Customized questions based on job roles",
+    "Accessible anytime, anywhere"
+  ]
+},
+
+  "Services": [
+  {
+    "icon": "fa fa-wordpress",
+    "name": "Browser Accessibility",
+    "text": "Accessible through all major web browsers, ensuring convenience and ease of use for every user. No need for downloads or special software."
+  },
+  {
+    "icon": "fa fa-cart-arrow-down",
+    "name": "Comprehensive Feedback",
+    "text": "Provides detailed, actionable feedback on interview responses, helping users understand their strengths and areas for improvement."
+  },
+  {
+    "icon": "fa fa-cloud-download",
+    "name": "Real-Time Simulations",
+    "text": "Conduct simulated interviews in real-time to mimic the pressure of actual interview scenarios and help users prepare more effectively."
+  },
+  {
+    "icon": "fa fa-language",
+    "name": "AI-Powered Coaching",
+    "text": "Utilizes cutting-edge artificial intelligence to offer personalized coaching, adapting to each user's unique needs and career goals."
+  },
+  {
+    "icon": "fa fa-plane",
+    "name": "Tailored Interview Questions",
+    "text": "AI generates customized interview questions that match the specific job roles, ensuring users practice with the most relevant queries."
+  },
+  {
+    "icon": "fa fa-pie-chart",
+    "name": "Real-Time Feedback",
+    "text": "Receive instant feedback during practice sessions, enabling users to adjust their responses on the fly and learn in real-time."
+  },
+  {
+    "icon": "fa fa-magic",
+    "name": "Ideal Answers",
+    "text": "Get examples of optimal responses for various interview scenarios, allowing users to model their answers after best practices."
+  },
+  {
+    "icon": "fa fa-group",
+    "name": "Personalized Learning",
+    "text": "Creates unique learning paths tailored to individual user needs, ensuring a focused and effective approach to interview preparation."
+  }
+],
+  "Contact": {
+    "address": "IIIT Guwahati ",
+    "phone": "+91 9693603529",
+    "email": "bittu.kumar21b@iiitg.ac.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Customized Training",
+      "text": "Our platform allows you to personalize your interview preparation experience. Input your job position, experience level, and specific focus areas to get tailored interview questions and feedback. Whether you're a recent graduate or a seasoned professional, you can craft your practice sessions to match your career goals."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Recording and Replay",
+      "text": "Enhance your interview skills with our recording feature. Each interview session is recorded, enabling you to revisit and assess your responses. Identify areas of improvement, refine your communication skills, and build confidence through regular practice and review."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "24/7 Real-Time Interviews",
+      "text": "Experience the pressure of real-time interviews at any time. Our AI-driven system generates questions dynamically and evaluates your responses instantly. Whether you're practicing at midnight or early in the morning, the platform is always available to simulate real-life interview scenarios."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "User-Friendly Interface",
+      "text": "Navigate effortlessly with our clean and intuitive interface. Designed to reduce complexity, the platform ensures a seamless experience, whether you’re setting up a practice session, reviewing past interviews, or adjusting your training parameters. Spend less time figuring out the platform and more time preparing."
+    }    
+  ]
+}
