@@ -47,7 +47,7 @@ export const Navigation = (props) => {
                 Contact
               </a>
             </li><li>
-              <a href="#contact" className="page-scroll">
+              <a href="https://interview-ready-lemon.vercel.app/dashboard" className="page-scroll">
                 Login
               </a>
             </li>
